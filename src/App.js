@@ -47,7 +47,7 @@ const App = () => {
   };
 
   return (
-    <Container className="min-w-full min-h-screen bg-gray-100 p-12">
+    <Container className="min-w-full h-full bg-gray-100 p-12 pt-8">
       <div className="bg-white p-6 rounded-lg shadow-lg min-w-full flex flex-col space-y-8">
         <Typography variant="h4" component="h1" align="center" className="mb-4 font-bold text-blue-500">
           Email Spam Multi - Classifier
