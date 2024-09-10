@@ -15,9 +15,9 @@ const App = () => {
     { value: 'LR', label: 'Logistic Regression' },
     { value: 'RF', label: 'Random Forest' },
     { value: 'Adaboost', label: 'AdaBoost' },
-    { value: 'BGc', label: 'Gradient Boosting' },
-    { value: 'ETC', label: 'Extra Trees' },
-    { value: 'GBDT', label: 'Gradient Boosting Decision Tree' },
+    // { value: 'BGc', label: 'Gradient Boosting' },
+    // { value: 'ETC', label: 'Extra Trees' },
+    // { value: 'GBDT', label: 'Gradient Boosting Decision Tree' },
     { value: 'XGB', label: 'XGBoost' }
   ];
 
